@@ -1,0 +1,7 @@
+fullnameOverride: "admin"
+env:
+  account_statement:
+  - name: MY_ID
+    value: 1001
+  - name: INSTANCE_ID
+    value: "1111"
